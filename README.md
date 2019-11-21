@@ -1,10 +1,10 @@
 # [Fashion-MNIST] converted to png
 
-This repoo contains following:
+This repo contains the following:
 
 - Simple script to convert MNIST-like datasets to png images.
 
-- [Fashion-MNIST] converted to png format stored in `data.zip` file.
+- [Fashion-MNIST] converted to png format stored in the `data.zip` file.
 
 ## Why
 
@@ -15,8 +15,9 @@ possible.
 Sometimes you just don't want all this parsing stuff.
 
 I was about to fork one of repos or gists ([1], [2], [3]) which convert original
-MNIST into png images. But some of them doesn't have licenses, some has too
-restricted as for me. That's why I've wrote this script and included MIT
+MNIST into png images. But some of them don't have licenses, some
+has too
+restricted as for me. That's why I've written this script and included MIT
 license.
 
 ## Usage
@@ -64,10 +65,10 @@ data
 In case if you want to convert MNIST or other MNIST-similar dataset like
 Fashion-MNIST - you can use `mnist_to_png.py` script.
 
-There are lots of hardcoded stuff, but it's easy to tweak if you need.
+There are lots of hard coded stuff, but it's easy to tweak if you need.
 
-First of all you need to put your MNIST files into `original_data` folder in
-root of this repo.:
+But it should work as is if you put your MNIST files into `original_data` folder in
+root of this repo:
 
 ```bash
 original_data
@@ -86,6 +87,8 @@ python3 mnist_to_png.py
 
 And it will create `data` directory with all the images stored according to
 structure above.
+
+Feel free to ask for help in [issues](https://github.com/DeepLenin/fashion-mnist_png/issues/new).
 
 ## Requirements
 
