@@ -16,7 +16,7 @@ Sometimes you just don't want all this parsing stuff.
 
 I was about to fork one of repos or gists ([1], [2], [3]) which convert original
 MNIST into png images. But some of them don't have licenses, some
-has too
+have too
 restricted as for me. That's why I've written this script and included MIT
 license.
 
