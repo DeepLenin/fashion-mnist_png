@@ -24,7 +24,7 @@ license.
 
 ### Dataset
 
-[Download `data.zip` file](4)
+[Download `data.zip` file](https://github.com/DeepLenin/fashion-mnist_png/raw/master/data.zip)
 
 Unzip it and you good to go:
 
@@ -112,6 +112,5 @@ pip install -r requirements.txt
 [1]: https://github.com/myleott/mnist_png
 [2]: https://github.com/pjreddie/mnist-csv-png
 [3]: https://gist.github.com/fukuroder/caa351677bf718a8bfe6265c2a45211f
-[4]: https://github.com/deeplenin/fashion-mnist_png/raw/master/data.zip
 [pypng]: https://github.com/drj11/pypng
 [Fashion-MNIST]: https://github.com/zalandoresearch/fashion-mnist
