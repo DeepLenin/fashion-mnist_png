@@ -63,7 +63,7 @@ data
 Images in those directories named independently from directory structure,
 so if you merge all those folders in one - none of images will be overwritten.
 
-Names are from `0.png` to `59999.png` for `train` folder and from `0.png` 
+Names are from `0.png` to `59999.png` for `train` folder and from `0.png`
 to `9999.png` for `test`.
 
 ### Script
@@ -120,3 +120,7 @@ pip install -r requirements.txt
 [3]: https://gist.github.com/fukuroder/caa351677bf718a8bfe6265c2a45211f
 [pypng]: https://github.com/drj11/pypng
 [Fashion-MNIST]: https://github.com/zalandoresearch/fashion-mnist
+
+## Copyright notice
+
+Fashion-MNIST: Copyright © 2017 Zalando SE, https://tech.zalando.com
