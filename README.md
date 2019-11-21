@@ -60,6 +60,12 @@ data
     └── 9
 ```
 
+Images in those directories named independently from directory structure,
+so if you merge all those folders in one - none of images will be overwritten.
+
+Names are from `0.png` to `59999.png` for `train` folder and from `0.png` 
+to `9999.png` for `test`.
+
 ### Script
 
 In case if you want to convert MNIST or other MNIST-similar dataset like
